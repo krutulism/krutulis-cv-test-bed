@@ -1,3 +1,8 @@
+#Based on tutorial by author Jason Dsouza through freecodecamp.org
+#Accessed at
+#https://www.youtube.com/watch?v=oXlwWbU8l2o
+
+
 import cv2 as cv
 import numpy as np
 
