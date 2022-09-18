@@ -1,4 +1,4 @@
-#Based on tutorial by author is Jason Dsouza through freecodecamp.org
+#Based on tutorial by author Jason Dsouza through freecodecamp.org
 #Accessed at
 #https://www.youtube.com/watch?v=oXlwWbU8l2o
 
